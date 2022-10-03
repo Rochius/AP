@@ -1,0 +1,11 @@
+.container_skills{
+    width: 100%;
+    padding: 1rem;
+    margin: 0;
+    padding: 1.25rem;
+    background-color: #e2d1f5;
+    color: #ffffff;
+}
+.row{
+    padding: 1rem;
+}
