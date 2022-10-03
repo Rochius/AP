@@ -1,0 +1,30 @@
+div{
+    background-color: rgb(57, 40, 75);
+}
+.container_header{
+    width: 100vw;
+}
+.nav__header{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+app-banner{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 50vh;
+}
+
+app-social{
+    width: 30%;
+}
+
+@media screen and (max-width: 700px) {
+    app-banner{
+        display: none;
+    }
+}

@@ -1,0 +1,14 @@
+.container_experience{
+    width: 100vw;
+    padding: 1.25rem;
+    background-color: #e3d2f5;
+    color: #ffffff;
+}
+
+.container_experience > div > ul{
+    list-style: none;
+}
+
+.title{
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.506);
+}
