@@ -1,10 +1,16 @@
+.container__acercaDe{
+    width: 100%;
+    padding: 1rem;
+    background-color: #755299;
+    color: aliceblue;
+}
+
 .fotoPerfil{
     width: 20vw;
     margin-top: -6vw;
     margin-left: 2vw;
     margin-right: 0;
     border-radius: 50%;
-    box-shadow: 2px 2px 10px black;
 }
 
 .abs-center{
@@ -14,13 +20,6 @@
     justify-content: space-evenly;
 }
 
-.container__acercaDe{
-    width: 100vw;
-    padding: 1rem;
-    background-color: #755299;
-    color: aliceblue;
-    box-shadow: 2px 2px 5px black;
-}
 .container_titles > span{
     height: 20vh;
     display: flex;

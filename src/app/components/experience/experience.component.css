@@ -1,7 +1,7 @@
 .container_experience{
-    width: 100vw;
+    width: 100%;
     padding: 1.25rem;
-    background-color: #e2d1f5;
+    background-color: #aa83d0;
     color: #ffffff;
 }
 
@@ -10,5 +10,6 @@
 }
 
 .title{
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.506);
+    color: #ffffff;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
