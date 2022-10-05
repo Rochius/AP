@@ -1,8 +1,6 @@
-div{
-    background-color: rgb(57, 40, 75);
-}
 .container_header{
     width: 100%;
+    background-color: rgb(59, 26, 94);
 }
 .nav__header{
     width: 100%;
@@ -23,7 +21,20 @@ app-social{
     width: 30%;
 }
 
-@media screen and (max-width: 700px) {
+.img-header{
+    width: 200px;
+}
+
+.logoSocial{
+    height: 50px;
+    border-radius: 0.5rem;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+.git{
+    border-radius: 50px;
+}
+
+@media screen and (max-width: 768px) {
     app-banner{
         display: none;
     }

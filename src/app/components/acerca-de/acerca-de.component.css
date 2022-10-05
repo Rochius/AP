@@ -35,7 +35,7 @@
     text-align: justify;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
      .container_fotoPerfil{
         width: 100vw;
         text-align: center;

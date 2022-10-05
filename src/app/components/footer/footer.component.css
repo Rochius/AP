@@ -1,0 +1,8 @@
+.container_footer{
+    width: 100%;
+    background-color: rgb(59, 26, 94);
+    color: #ffffff;
+    
+    padding: 1rem;
+    padding-top: 3rem;
+}
